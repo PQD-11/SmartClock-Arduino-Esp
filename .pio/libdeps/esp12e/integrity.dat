@@ -1,0 +1,9 @@
+adafruit/DHT sensor library@^1.4.3
+sensorsiot/NTPtimeESP@^1.0.0
+adafruit/Adafruit BusIO@^1.11.6
+adafruit/Adafruit NeoPixel@^1.10.5
+mbed-gellmish/Pozyx-Arduino-library-master_v2@0.0.0+sha.16d948f656fe
+knolleary/PubSubClient@^2.8
+adafruit/Adafruit GFX Library@^1.11.1
+arduino-libraries/NTPClient@^3.2.1
+makuna/NeoPixelBus@^2.7.0

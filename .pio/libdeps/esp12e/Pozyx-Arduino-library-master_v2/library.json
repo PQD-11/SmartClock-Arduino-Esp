@@ -1,0 +1,22 @@
+{
+    "authors": {
+        "name": "olivier Gellman",
+        "url": "https://os.mbed.com/users/gellmish/"
+    },
+    "build": {
+        "builder": "MbedLibBuilder"
+    },
+    "description": "code ready to localyse",
+    "frameworks": "mbed",
+    "keywords": [
+        "lefebvre",
+        "martin"
+    ],
+    "name": "Pozyx-Arduino-library-master_v2",
+    "platforms": "*",
+    "repository": {
+        "type": "hg",
+        "url": "https://os.mbed.com/users/gellmish/code/Pozyx-Arduino-library-master_v2/"
+    },
+    "version": "0.0.0+sha.16d948f656fe"
+}
